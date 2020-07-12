@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">People Demo</string>
     <string name="label_startMessaging">Start messaging</string>
+    <string name="label_messaging">Messaging</string>
 </resources>
